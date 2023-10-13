@@ -4,7 +4,7 @@ Welcome to my personal GitHub repository, where I document my learning journey a
 
 ## What is xv6?
 
-[xv6](https://pdos.csail.mit.edu/6.828/2020/xv6.html) is a simple, educational operating system developed at MIT as a reimplementation of the Unix Version 6 (v6) operating system. It serves as a minimal and understandable platform for learning the fundamentals of operating systems and system programming. xv6 is written in C and x86 assembly, making it an excellent environment for hands-on learning.
+[xv6](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is a simple, educational operating system developed at MIT as a reimplementation of the Unix Version 6 (v6) operating system. It serves as a minimal and understandable platform for learning the fundamentals of operating systems and system programming. xv6 is written in C and x86 assembly, making it an excellent environment for hands-on learning.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ To begin your journey with xv6, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
    ```shell
-   [git clone https://github.com/your-username/xv6-hacking.git](https://github.com/Qubits-01/cs-140-laboratory-exercises.git)
+   git clone https://github.com/your-username/xv6-hacking.git
    ```
 
 2. **Run xv6**: Build and launch the xv6 operating system in the QEMU emulator.
@@ -67,11 +67,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The xv6 project is based on the original code by [MIT](https://pdos.csail.mit.edu/6.828/2020/xv6.html).
+- The xv6 project is based on the original code by [MIT](https://github.com/mit-pdos/xv6-public).
 - I'd like to express my gratitude to the open-source community, MIT for developing xv6, and all those who have contributed to the project. This journey wouldn't have been possible without their collective efforts.
 
 ## Connect with Me
 
-If you have any questions, want to discuss my journey, or have suggestions, feel free to reach out. You can contact me via [email](mailto:mpvviernes@gmail.com) or [GitHub issues]([https://github.com/your-username/xv6-learning-journey/issues](https://github.com/Qubits-01/cs-140-laboratory-exercises/issues)). Let's continue to learn and explore together!
+If you have any questions, want to discuss my journey, or have suggestions, feel free to reach out. You can contact me via [email](mailto:mpvviernes@gmail.com) or [GitHub issues](https://github.com/Qubits-01/cs-140-laboratory-exercises/issues). Let's continue to learn and explore together!
 
 Happy hacking, tinkering, and configuring! 🚀
