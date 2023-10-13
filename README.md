@@ -70,6 +70,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The xv6 project is based on the original code by [MIT](https://github.com/mit-pdos/xv6-public).
 - I'd like to express my gratitude to the open-source community, MIT for developing xv6, and all those who have contributed to the project. This journey wouldn't have been possible without their collective efforts.
 
+## Other References
+
+- https://github.com/YehudaShapira/xv6-explained/tree/master
+
 ## Connect with Me
 
 If you have any questions, want to discuss my journey, or have suggestions, feel free to reach out. You can contact me via [email](mailto:mpvviernes@gmail.com) or [GitHub issues](https://github.com/Qubits-01/cs-140-laboratory-exercises/issues). Let's continue to learn and explore together!
